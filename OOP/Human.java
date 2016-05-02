@@ -1,4 +1,4 @@
-
+// how to make a class
 public class Human {
 	
 	String nama = "Tony";

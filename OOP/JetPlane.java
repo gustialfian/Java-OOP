@@ -1,4 +1,4 @@
-
+// implement class from abstract class and interface
 public class JetPlane extends Crashable implements Driveable, Flyable{
 	@Override
 	public void takeOff() {
